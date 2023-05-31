@@ -1,0 +1,19 @@
+#Testing using every branch method
+user@email0.com
+user@email1.com
+user@email2.com
+user@email3.com
+user@email4.com
+,User, password and email are null/not null
+
+Success!
+Null/non-Null Username
+
+Success!
+-User email contains/doesn't contain @ and .
+
+Success!
+User list is emtpy/not empty
+
+Success!
+3Existing/No existing user with an identical email
